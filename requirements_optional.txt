@@ -1,3 +1,0 @@
-# Optional dependencies only; core search/CSP/game programs use Python's standard library.
-opencv-python   # face detection/recognition scripts
-scikit-learn    # TF-IDF chatbot script
